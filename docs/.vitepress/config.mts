@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/python-guide",
   // 网页地址 icon
   head: [["link", {rel: "icon", href: "/电脑.svg"}]],
   title: "主页",
