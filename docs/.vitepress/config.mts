@@ -78,7 +78,16 @@ export default defineConfig({
               { text: "3.5 【基础】迭代器", link: "/python-guide/c03_05"},
               { text: "3.6 【基础】生成器", link: "/python-guide/c03_06"},
             ]
-          }
+          },
+          {
+            text: '第四章：控制流程',
+            items: [
+              { text: "4.1 【基础】条件语句：if", link: "/python-guide/c04_01"},
+              { text: "4.2 【基础】循环语句：for", link: "/python-guide/c04_02"},
+              { text: "4.3 【基础】循环语句：while", link: "/python-guide/c04_03"},
+              { text: "4.4 【进阶】五种推导式", link: "/python-guide/c04_04"},
+            ]
+          },
         ]
       },
     ],
