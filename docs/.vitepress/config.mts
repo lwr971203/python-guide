@@ -67,6 +67,17 @@ export default defineConfig({
               { text: "2.6 【基础】字符串格式化", link: "/python-guide/c02_06"},
               { text: "2.7 【基础】运算符（超全整理）", link: "/python-guide/c02_07"},
             ]
+          },
+          {
+            text: '第三章：数据结构',
+            items: [
+              { text: "3.1 【基础】列表", link: "/python-guide/c03_01"},
+              { text: "3.2 【基础】元组", link: "/python-guide/c03_02"},
+              { text: "3.3 【基础】字典", link: "/python-guide/c03_03"},
+              { text: "3.4 【基础】集合", link: "/python-guide/c03_04"},
+              { text: "3.5 【基础】迭代器", link: "/python-guide/c03_05"},
+              { text: "3.6 【基础】生成器", link: "/python-guide/c03_06"},
+            ]
           }
         ]
       },
